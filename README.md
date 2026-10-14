@@ -47,8 +47,8 @@ Each query has a comment with the question it answers and the decision it helps 
 
 ## Links
 
-- Full case study (Notion): add the published Notion link here
-- Jira: the backlog and Sprint 1 screenshots are in the Notion page
+- Full case study (Notion): add the published Notion link here ( https://app.notion.com/p/Job-Application-Tracking-System-ATS-BA-Case-Study-2a9d15597bcd831fb7ec810e1ff4155d?source=copy_link )
+- Jira: the backlog and Sprint 1 screenshots are in the Notion page 
 
 ## Skills shown
 
